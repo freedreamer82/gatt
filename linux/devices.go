@@ -1,6 +1,6 @@
 package linux
 
-import "github.com/cfreeman/gatt/linux/gioctl"
+import "github.com/freedreamer82/gatt/linux/gioctl"
 
 const (
 	ioctlSize     = uintptr(4)

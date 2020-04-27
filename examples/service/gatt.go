@@ -3,7 +3,7 @@ package service
 import (
 	"log"
 
-	"github.com/cfreeman/gatt"
+	"github.com/freedreamer82/gatt"
 )
 
 var (
